@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Mirepor" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.0.1" provider-name="Yo Mismo">
+<addon id="repository.RetroTv" name="[COLOR lime]RetroTv./COLOR] Repo" version="1.0" provider-name="RetroTv">
     <extension point="xbmc.addon.repository" name="Mi repositorio">
-        <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/xxxxxxxxxxxx/master/Repositorio/</datadir>
+        <info>https://github.com/rretroarcade/RetroTv_repositorio/commits/master/Repositorio/addons.xml</info>
+        <checksum>https://github.com/rretroarcade/RetroTv_repositorio/commits/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/rretroarcade/RetroTv_repositorio/commits/master/Repositorio/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para Mi</summary>
+        <summary>RetroTv</summary>
         <description></description>
         <disclaimer></disclaimer>
         <platform>all</platform>
